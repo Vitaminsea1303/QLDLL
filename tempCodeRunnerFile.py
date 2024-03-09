@@ -1,0 +1,1 @@
+print(pd.DataFrame(df.take(5), columns=df.columns).transpose())
